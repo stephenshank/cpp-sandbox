@@ -3,3 +3,6 @@ example.py
 example_wrap.c
 *.o
 *.so
+tags
+kitty.py
+kitty_wrap.cxx
