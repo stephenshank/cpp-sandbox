@@ -6,3 +6,4 @@ example_wrap.c
 tags
 kitty.py
 kitty_wrap.cxx
+*.dSYM
